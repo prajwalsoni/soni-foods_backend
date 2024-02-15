@@ -1,12 +1,12 @@
-//package com.soni.domain;
-//
-//public enum Role {
-//	
-//
-//	    ROLE_CUSTOMER,
-//	    ROLE_RESTAURANT_OWNER,
-//	    ROLE_ADMIN
-//	
-//
-//
-//}
+package com.soni.domain;
+
+public enum Role {
+	
+
+	    ROLE_CUSTOMER,
+	    ROLE_RESTAURANT_OWNER,
+	    ROLE_ADMIN
+	
+
+
+}
