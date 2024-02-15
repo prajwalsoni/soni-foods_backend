@@ -1,11 +1,9 @@
-//package com.soni.Exception;
-//
-//public class OrderException extends Exception {
-//
-//	public OrderException(String message) {
-//		super(message);
-//		
-//	}
-//	
-//
-//}
+package com.soni.Exception;
+
+public class OrderException extends Exception {
+
+	public OrderException(String message) {
+		super(message);
+		
+	}
+}
